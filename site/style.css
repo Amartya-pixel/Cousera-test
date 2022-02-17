@@ -45,8 +45,7 @@ h1{
 }
 .button:hover{
 	background-color: darkgrey;
-	content: '\00bb';
-  color: white;
+	color: white;
   transition: 0.5s;
 }
 
